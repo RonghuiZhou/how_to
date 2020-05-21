@@ -1,3 +1,4 @@
 1. download: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 2. install, remember password
 3. From Windowns open pgAdmin 4
+4. SQL shell(psql)
