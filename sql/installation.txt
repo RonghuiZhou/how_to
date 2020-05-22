@@ -2,3 +2,8 @@
 2. install, remember password
 3. From Windowns open pgAdmin 4
 4. SQL shell(psql)
+
+
+
+Apache Cassandra installation:
+https://medium.com/@sushantgautam_930/simple-way-to-install-cassandra-in-windows-10-6497e93989e6
