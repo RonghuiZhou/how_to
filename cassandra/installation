@@ -18,3 +18,7 @@ curl https://downloads.apache.org/cassandra/KEYS | sudo apt-key add -
 
 10. sudo apt-get update
 11. sudo apt-get install cassandra
+12. sudo service cassandra start
+13. sudo service cassandra status
+14. sudo service cassandra stop
+15. nodetool status
