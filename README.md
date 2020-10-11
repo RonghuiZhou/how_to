@@ -44,3 +44,9 @@ As the simpler way, after step 3, go to C:\Users\User_name\Anaconda3\Scripts
 6-2) Done.
 
 3. change CMD home
+
+
+4. insert Youtube video:
+https://nbviewer.jupyter.org/github/axu2/improved-seam-carving/blob/master/Improved%20Seam%20Carving.ipynb
+from IPython.lib.display import YouTubeVideo
+YouTubeVideo('6NcIJXTlugc')
