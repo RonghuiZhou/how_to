@@ -1,0 +1,5 @@
+how to install cvxpy package:
+
+conda install -c conda-forge lapack
+conda install -c cvxgrp cvxpy
+conda install -c conda-forge cvxopt
