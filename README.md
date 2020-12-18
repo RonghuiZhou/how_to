@@ -50,3 +50,6 @@ As the simpler way, after step 3, go to C:\Users\User_name\Anaconda3\Scripts
 https://nbviewer.jupyter.org/github/axu2/improved-seam-carving/blob/master/Improved%20Seam%20Carving.ipynb
 from IPython.lib.display import YouTubeVideo
 YouTubeVideo('6NcIJXTlugc')
+
+
+5. [How To Run A Python Script With Notepad++](https://www.youtube.com/watch?v=WTOVVeAD_-M)
