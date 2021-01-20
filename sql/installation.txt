@@ -7,3 +7,12 @@
 
 Apache Cassandra installation:
 https://medium.com/@sushantgautam_930/simple-way-to-install-cassandra-in-windows-10-6497e93989e6
+
+
+Jan. 20, 2021
+Installation on reversed phase chiral hplc:
+1. download 13.1 version, Windows x86-64 
+  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+2. install, pwd same as lcms windows account
+
