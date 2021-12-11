@@ -6,3 +6,6 @@ https://pytorch.org/
 3. tensorflow: conda install -c conda-forge tensorflow
 4. install ipykernel: conda install -c anaconda ipykernel
 5. python -m ipykernel install --user --name=firstEnv
+
+https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
+
