@@ -1,0 +1,8 @@
+
+1. create env: conda create --name myenv
+2. install pytorch: conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+https://pytorch.org/
+
+3. tensorflow: conda install -c conda-forge tensorflow
+4. install ipykernel: conda install -c anaconda ipykernel
+5. python -m ipykernel install --user --name=firstEnv
