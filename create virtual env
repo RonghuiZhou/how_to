@@ -4,4 +4,10 @@
     conda activate nlp
     pip install sklearn
     
+    conda deactivate
+    
 2. add to jupyter notebook
+    ref: https://janakiev.com/blog/jupyter-virtual-envs/
+    
+    pip install --user ipykernel
+    python -m ipykernel install --user --name=nlp
