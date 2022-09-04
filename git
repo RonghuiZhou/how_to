@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/7671461/how-do-i-change-the-default-location-for-git-bash-on-windows
+echo $HOME
+setx HOME "C:"
