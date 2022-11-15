@@ -1,0 +1,20 @@
+{
+    "add_recipient": "",
+    "recipient_list": [
+        "rzhou11@its.jnj.com"
+    ],
+    "cc_list": [
+        "rzhou11@its.jnj.com",
+        "rzhou11@its.jnj.com"
+    ],
+    "hour": "07",
+    "minute": "30",
+    "quote": 1,
+    "weather": 0,
+    "twitter": 0,
+    "wikipedia": 0,
+    "server_smtp": "smtp.na.jnj.com",
+    "server_port": "25",
+    "sender_email": "rzhou11@its.jnj.com",
+    "sender_password": "pwd"
+}

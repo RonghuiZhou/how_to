@@ -1,0 +1,16 @@
+{
+    "add_recipient": "",
+    "recipient_list": [
+        "rzhou11@its.jnj.com"
+    ],
+    "cc_list": [],
+    "bcc_list": [],
+    "hour": "07",
+    "minute": "30",
+    "quote": 1,
+    "weather": 0,
+    "twitter": 0,
+    "wikipedia": 0,
+    "sender_email": "(Ronghui Zhou)rzhou11@its.jnj.com",
+    "sender_password": "password"
+}
