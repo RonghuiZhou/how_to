@@ -53,3 +53,20 @@ YouTubeVideo('6NcIJXTlugc')
 
 
 5. [How To Run A Python Script With Notepad++](https://www.youtube.com/watch?v=WTOVVeAD_-M)
+
+
+how to export conda environment:
+
+1. cd C:\DO_NOT_TOUCH\NMR\HTNMR\conda_env
+2. conda activate HTNMR_env
+3. conda env export > HTNMR_env.yml
+
+
+create environment:
+1. cd C:\DO_NOT_TOUCH\NMR\HTNMR\conda_env
+2. conda env create --file HTNMR_env.yml
+
+
+
+remove: 
+conda env remove -n HTNMR_env
