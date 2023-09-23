@@ -70,3 +70,15 @@ create environment:
 
 remove: 
 conda env remove -n HTNMR_env
+
+
+Add conda env to Jupyter Notebook Kernel
+
+[ref](https://blog.ronin.cloud/adding-conda-environment-to-jupyter-notebook/)
+
+conda activate myenv
+
+pip install --user ipykernel 
+
+python -m ipykernel install --user --name=myenv
+
