@@ -66,7 +66,8 @@ create environment:
 1. cd C:\DO_NOT_TOUCH\NMR\HTNMR\conda_env
 2. conda env create --file HTNMR_env.yml
 
-
+install packages in allergen.yml in the current allergen environment:        
+conda env update --name allergen --file allergen.yml  
 
 remove: 
 conda env remove -n HTNMR_env
