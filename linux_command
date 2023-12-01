@@ -2,3 +2,7 @@
 2. nvidia-smi  
 3. which nvcc  
 4. ldconfig -p | grep cuda  
+5. module load cuda  
+6. Ubuntu:  
+  6.1 sudo apt install openssh-server  
+  6.2 sudo systemctl start ssh
