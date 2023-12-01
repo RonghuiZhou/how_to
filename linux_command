@@ -7,6 +7,13 @@
   6.1 sudo apt install openssh-server  
   6.2 sudo systemctl start ssh
   6.3 download conda  
+  6.4 add conda in .bashrc:   
+    nano .bashrc
+    add this line to the end of the file: export PATH="$PATH:/home/rzhou11/miniconda3/bin:$PATH", ctrl + o to save; ctrl + z to exit.  
+  6.5 conda create --name allergen python=3.11  
+  6.6 conda activate allergen  
+  6.7 
+
 https://docs.conda.io/projects/miniconda/en/latest/  
 Quick command line install
 These quick command line instructions will get you set up quickly with the latest Miniconda installer. For graphical installer (.exe and .pkg) and hash checking instructions, see Installing Miniconda.
