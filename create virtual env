@@ -12,4 +12,9 @@
     pip install --user ipykernel
     python -m ipykernel install --user --name=nlp
 
+
+3. create deep learning conda env: allergen  
+a. conda create --name allergen python=3.11  
+b. 
+
     
