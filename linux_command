@@ -14,6 +14,13 @@
   6.6 conda activate allergen  
 7. how to see the cpu usage in lunux: htop
 
+8. edit .bashrc_profile to automatically load modules and packages  
+source /apps/pkgs/comm/cchem/miniconda/conda3-py38/bashrc  
+source activate allergen  
+export LD_LIBRARY_PATH=/home/rzhou11/.conda/envs/allergen/lib  
+cd Allergen  
+
+
 https://docs.conda.io/projects/miniconda/en/latest/  
 Quick command line install
 These quick command line instructions will get you set up quickly with the latest Miniconda installer. For graphical installer (.exe and .pkg) and hash checking instructions, see Installing Miniconda.
