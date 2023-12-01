@@ -1,0 +1,4 @@
+1. lscpu  
+2. nvidia-smi  
+3. which nvcc  
+4. ldconfig -p | grep cuda  
