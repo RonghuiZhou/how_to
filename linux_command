@@ -12,7 +12,7 @@
     add this line to the end of the file: export PATH="$PATH:/home/rzhou11/miniconda3/bin:$PATH", ctrl + o to save; ctrl + z to exit.  
   6.5 conda create --name allergen python=3.11  
   6.6 conda activate allergen  
-  6.7 
+7. how to see the cpu usage in lunux: htop
 
 https://docs.conda.io/projects/miniconda/en/latest/  
 Quick command line install
